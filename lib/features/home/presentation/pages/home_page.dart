@@ -112,8 +112,7 @@ class _PageHomeState extends State<HomePage> {
                       )
                   ),
                   onPressed: (){
-                    print('Data ');
-                    // locator<AppRouter>().push(const ImdbRoute());
+                    locator<AppRouter>().push(const ImdbRoute());
                   },
                   child: Text(
                     AppLocalizationKeys.kViewImdbText.translate
