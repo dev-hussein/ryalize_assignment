@@ -1,0 +1,14 @@
+{
+  "appName": "Ryalize",
+  "viewImdbText": "عرض IMDB",
+
+
+
+
+  "notConnectedToInternet": "أنت غير متصل بالإنترنت",
+  "somethingWentWrongText":"حدث خطأ ما. يرجى إعادة المحاولة لاحقاً ",
+  "serviceError": "الخدمة غير متوفرة، من فضلك حاول في وقت لاحق",
+  "forbiddenAccessError": "لا تملك الصلاحيات الكافية للإطلاع",
+  "contentError": "هذا المحتوى غير متوفر حالياً، من فضلك حاول في وقت لاحق",
+  "unAuthorizedAccess": "لا تملك الصلاحيات الكافية للإطلاع"
+}

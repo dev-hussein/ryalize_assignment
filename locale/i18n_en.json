@@ -1,0 +1,13 @@
+{
+  "appName": "Ryalize",
+  "viewImdbText": "View IMDB",
+
+
+
+  "notConnectedToInternet": "You are not connected to internet",
+  "somethingWentWrongText": "Something went wrong. Please try again",
+  "serviceError": "Service unavailable, please try again later.",
+  "forbiddenAccessError": "You don't have the adequate permissions to view this.",
+  "contentError": "This content is unavailable currently, please try again later",
+  "unAuthorizedAccess": "You don't have authorization to access this"
+}
